@@ -1,5 +1,11 @@
 # AI-Social-Story
 This repo aims to create a bot that generates social story for autistic kids
+## What is a social story 
+Social story is a short story designed to prepare people on the autistic spectrum for new 
+things that are not part of their regular routine.
+For example, we want the child to be prepared to move to a new house, so we will create a social story
+with simple sentences and drawings about the child moving to the new home.
+[More reading here](https://www.autismparentingmagazine.com/social-stories-for-autistic-children/)
 
 # General Flow of the code
 1. Receive as input the following details
